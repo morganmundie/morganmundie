@@ -4,7 +4,7 @@ I love building software that lives at the intersection of **engineering** and *
 
 
 - 🔭 I'm currently open for work opportunities!
-- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
+- 💼 [Connect with me on LinkedIn](https://www.linkedin.com/in/morgan-mundell)
 - 💬 Feel free to reach out if you'd like to collaborate or just chat about tech!
 
 ## 🛠️ Languages and Tools
